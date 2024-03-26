@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e7be3cdff13a43b68d124df3d0f1c119" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="QLKYTUCXAModel.Admin" Width="1.5" PointX="2.25" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.DangKyDichVu" Width="1.5" PointX="7.5" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.DichVu" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.DonXinTham" Width="1.5" PointX="7.5" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.HoaDon" Width="1.5" PointX="5.375" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.LoaiPhong" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.Phong" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.SinhVien" Width="1.5" PointX="5.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLKYTUCXAModel.TaiKhoan" Width="1.5" PointX="0.75" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_DangKyDichVu_DichVu_MaDV" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_DangKyDichVu_SinhVien_MaSV" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_XinTham_SinhVien_MaSV" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_HoaDon_SinhVien_MaSV" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_Phong_LoaiPhong_MaLoai" ManuallyRouted="false" />
+        <AssociationConnector Association="QLKYTUCXAModel.FK_SinhVien_Phong_IdPhong" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

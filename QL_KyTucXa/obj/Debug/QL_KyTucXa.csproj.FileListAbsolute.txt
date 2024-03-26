@@ -1,0 +1,148 @@
+D:\.Study\LT HDT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe.config
+D:\.Study\LT HDT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe
+D:\.Study\LT HDT\QL_KyTucXa\bin\Debug\QL_KyTucXa.pdb
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.AssemblyReference.cache
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.SuggestedBindingRedirects.cache
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FMainSinhVien.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Properties.Resources.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.GenerateResource.cache
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CoreCompileInputs.cache
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.exe
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.pdb
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.DangNhap.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDangKy.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDuyetDon.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FTaiChinhSV.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FThongTinCN.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FXinGiayXacNhan.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyHoaDon.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FDangKyDichVu.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyPhong.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyDichVu.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLySinhVien.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDangNhap_Admin.resources
+D:\.Study\LT HDT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FQuenMK.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe.config
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\QL_KyTucXa.pdb
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FKyTucXa.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyNguoiThan.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.DangNhap.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDangKy.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDuyetDon.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyHoaDon.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FDangKyDichVu.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FMainSinhVien.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyPhong.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyDichVu.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLySinhVien.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Properties.Resources.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FTaiChinhSV.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FThongTinCN.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FXinGiayXacNhan.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDangNhap_Admin.resources
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CopyComplete
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.exe
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.pdb
+C:\Users\Admin\Desktop\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDoiMK.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe.config
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\QL_KyTucXa.pdb
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.SuggestedBindingRedirects.cache
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FKyTucXa.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyNguoiThan.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.DangNhap.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDangKy.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDuyetDon.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyHoaDon.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FDangKyDichVu.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FMainSinhVien.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyPhong.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyDichVu.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLySinhVien.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Properties.Resources.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FTaiChinhSV.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FThongTinCN.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FXinGiayXacNhan.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDangNhap_Admin.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDoiMK.resources
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CopyComplete
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.exe
+C:\Users\AD\Desktop\PJ HDT\Tổng hợp\QL_KyTucXa\obj\Debug\QL_KyTucXa.pdb
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.AssemblyReference.cache
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.SuggestedBindingRedirects.cache
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FKyTucXa.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyNguoiThan.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.DangNhap.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDangKy.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDuyetDon.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyHoaDon.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FDangKyDichVu.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FMainSinhVien.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyPhong.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyDichVu.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLySinhVien.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Properties.Resources.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FTaiChinhSV.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FThongTinCN.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FXinGiayXacNhan.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDangNhap_Admin.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDoiMK.resources
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.exe
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.pdb
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe.config
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.pdb
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AD\Desktop\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CopyComplete
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe.config
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.exe
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\QL_KyTucXa.pdb
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FKyTucXa.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyNguoiThan.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.DangNhap.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDangKy.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FDuyetDon.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Quản_Lý.FQuanLyHoaDon.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FDangKyDichVu.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FMainSinhVien.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyPhong.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLyDichVu.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.FQuanLySinhVien.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Properties.Resources.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FTaiChinhSV.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FThongTinCN.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Sinh_viên.FXinGiayXacNhan.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDangNhap_Admin.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.Đăng_nhập.FDoiMK.resources
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.csproj.CopyComplete
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.exe
+C:\Users\Admin\Desktop\TKB HK232\Project HĐT\QL_KyTucXa\obj\Debug\QL_KyTucXa.pdb
